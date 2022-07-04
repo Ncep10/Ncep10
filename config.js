@@ -18,8 +18,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285822347348','6285822347348','6285822347348']
-global.premium = ['6285822347348']
+global.owner = ['6281917280038','6281917280038','6281917280038']
+global.premium = ['6281917280038']
 global.packname = 'Sticker by'
 global.author = 'ArullOfc'
 global.sessionName = 'session'
